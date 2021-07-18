@@ -2,7 +2,7 @@
 create custom maps for Maverick-Android-App
 
 
-To create custom mapserver or fix maps that don't work anymore (by adding it new) you can read short tutorial here:
+To create custom mapserver or fix map that don't work anymore (by adding it new) you can read short tutorial here:
 https://codesector.kayako.com/article/6-setting-up-custom-map-servers
 
 You can add custom maps and custom overlays at the same way. 
