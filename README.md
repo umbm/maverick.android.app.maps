@@ -1,5 +1,4 @@
-# maverick.android.app.maps
-create custom maps for Maverick-Android-App
+# create custom maps for Maverick-Android-App
 
 
 To create custom mapserver or fix map that don't work anymore (by adding it new) you can read short tutorial here:
