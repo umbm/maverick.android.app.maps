@@ -19,3 +19,5 @@ If you start storing tiles offline without permission, then you do so at your ow
 It is highly recommend to consult and follow usage policies of a given server! 
 Respect their terms of use/tile usage policy.</b>
 
+additional source:
+https://wiki.openstreetmap.org/wiki/Tiles
