@@ -1,0 +1,1 @@
+https://{server}.tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png|png|17|1
